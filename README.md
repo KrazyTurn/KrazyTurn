@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding in Python
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
-  
+- 📫 How to reach me: Discord @unofficialliquid87
 
 <!---
 GoldenLife-01/GoldenLife-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
